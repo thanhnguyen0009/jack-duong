@@ -296,7 +296,7 @@
 }
 
 .custom-popup {
-	font-family: var(--font-lora);
+	font-family: var(--font-gotham);
 }
 
 .custom-title {
@@ -340,7 +340,7 @@
     margin: 0 auto;
     overflow: hidden;
     border: 1px solid #111;
-    background-color: var(--primary-color);
+    background-color: #FFF8EE;
     color: var(--color-text);
 }
 
@@ -390,6 +390,7 @@
     font-family: var(--font-gotham);
     font-size: .6em;
     margin-top: 50px;
+    font-weight: 300;
 }
 
 .lb-top4{
@@ -420,7 +421,7 @@
     font-family: var(--font-gotham);
     font-size: .45em;
     font-style: italic;
-    font-weight: 400;
+    font-weight: 300;
 }
 
 
@@ -465,6 +466,7 @@
     font-size: .55em;
     word-spacing: 1px;
     color: var(--color-text);
+    font-weight: 300;
 }
 
 .timeline-top{
@@ -509,6 +511,8 @@
     font-family: var(--font-gotham);
     font-size: .7em;
     margin-bottom: 30px;
+    font-weight: 300;
+    line-height: 17px;
 }
 
 
